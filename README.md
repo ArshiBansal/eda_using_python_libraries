@@ -36,6 +36,7 @@ The dataset is from Kaggle and includes attributes like:
 ```bash
 python netflix_analysis.py
 ```
-
+## ScreenShot: 
+![alt text](image.png)
 ## License
 Open-source under the MIT License.
